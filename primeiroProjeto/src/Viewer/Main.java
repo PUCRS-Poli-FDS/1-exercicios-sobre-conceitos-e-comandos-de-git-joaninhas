@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("Hello Joaninhas!");
 		
 		System.out.println("Hello Joaninhas 2 !");
+		
+		System.out.println("Hello Joaninhas 3 !");
 
 	}
 
